@@ -1,0 +1,1502 @@
+[
+  {
+    "question": "Koja od navedenih značajka ukazuje na zajedničko podrijetlo čudnovatoga kljunaša i ptica?",
+    "gen_answer": "Kratica.",
+    "ground_truth": "kloaka (nečisnica)",
+    "contexts": [
+      "to ukazuje na miješani brak i vjerojatno barbarsko podrijetlo njegovog oca Patricija. Podrijetlo ovih ptica postaje sve jasnije. Prije zamjene nerjetko se nalazi kratica koja ukazuje na podrijetlo riječi, to jest iz kojeg je jezika riječ potekla."
+    ],
+    "scores": {
+      "faithfulness": 0.0,
+      "context_relevance": 0.0,
+      "answer_correctness": 0.0,
+      "question_complexity": 1
+    },
+    "id": "4880240d-8d4a-11ea-ae7d-54bef70b159e"
+  },
+  {
+    "question": "Koja su od navedenih zajednička obilježja gospodarstava azijskih tigrova?",
+    "gen_answer": "Brzo razvoj.",
+    "ground_truth": "izrazito gusta naseljenost",
+    "contexts": [
+      "Azijske igre. Smatra se azijskim tigrom (tigrovima se nazivaju male azijske države koje su se vrlo brzo razvile). Savez uključuje sve europske države članice (\"Europske mikrodržave\") koje imaju manje od milijun stanovnika."
+    ],
+    "scores": {
+      "faithfulness": 0.5,
+      "context_relevance": 0.5,
+      "answer_correctness": 0.0,
+      "question_complexity": 1
+    },
+    "id": "4880245a-8d4a-11ea-ae7d-54bef70b159e"
+  },
+  {
+    "question": "Koji je par funkcija školskoga sustava osim prenošenja znanja i vještina najvažniji prema konfliktnoj perspektivi?",
+    "gen_answer": "Učenje kritičkog mišljenja.",
+    "ground_truth": "discipliniranje i ideologizacija",
+    "contexts": [
+      "Ponekad se na civilno društvo gleda kao na opoziciju aktualnoj vlasti i funkcija \"watch doga\" (psa čuvara) se u javnosti percipira kao negativna, no evidentno je da civilno društvo igra važnu ulogu osobito u zemljama mlade demokracije. Važnu ulogu ima obrazovanje. Ima važnu ulogu u mnogim Harryjevim avanturama."
+    ],
+    "scores": {
+      "faithfulness": 0.0,
+      "context_relevance": 0.0,
+      "answer_correctness": 0.0,
+      "question_complexity": 1
+    },
+    "id": "41483de7-8d4a-11ea-ae7d-54bef70b159e"
+  },
+  {
+    "question": "Kako se pravilno orijentiraju molekule fosfolipida tijekom izgradnje biomembrane?",
+    "gen_answer": "U dva sloja, repovi prema unutra.",
+    "ground_truth": "tvore dvosloj, hidrofobni dijelovi molekula okrenuti su jedni prema drugima",
+    "contexts": [
+      "U vodenoj otopini molekule sapuna se usmjeravaju tako da se hidrofobni dio usmjeri prema molekuli masnoće, ako je prisutna, i time izbjegne blizinu molekula vode. Na taj način se stvara dvosloj fosfolipida koji u izgradnji membrana spriječava izlazak tekućeg sadržaja. Fosfolipidne molekule orijentiraju se u dva sloja membrane tako da su repovi svake molekule gledaju prema unutra, zapravo prema nasuprotnom sloju lipida."
+    ],
+    "scores": {
+      "faithfulness": 1.0,
+      "context_relevance": 1.0,
+      "answer_correctness": 1.0,
+      "question_complexity": 1
+    },
+    "id": "44e0ab6e-8d4a-11ea-ae7d-54bef70b159e"
+  },
+  {
+    "question": "Koja je vrlina prema Aristotelu cjelovita i savršena?",
+    "gen_answer": "Savršenost.",
+    "ground_truth": "pravednost",
+    "contexts": [
+      "Ista količina goriva kao na -200 seriji utjecala je na smanjenje doleta na 6.287 km. opisao grčki filozof Aristotel. Vrlina je jedan od glavnih pojmova etike još od antičke filozofije."
+    ],
+    "scores": {
+      "faithfulness": 0.0,
+      "context_relevance": 0.0,
+      "answer_correctness": 0.0,
+      "question_complexity": 1
+    },
+    "id": "676b745c-8d4a-11ea-ae7d-54bef70b159e"
+  },
+  {
+    "question": "Pozorno pročitajte rečenicu. Čini ono što dovodi do najveće sreće najvećeg broja ljudi. Za koju je etičku teoriju karakteristična navedena rečenica?",
+    "gen_answer": "Utilitarianism.",
+    "ground_truth": "za utilitarizam",
+    "contexts": [
+      "Obično se pribraja poslovnoj (transakcijskoj). načelo najveće sreće, prema kojemu je \"najveća sreća najvećeg broja ljudi mjera ispravnog i pogrešnog\". Protivnici privatizacije navode primjerice i poskupljenja roba usluga privatiziranih tvrtki."
+    ],
+    "scores": {
+      "faithfulness": 0.0,
+      "context_relevance": 0.0,
+      "answer_correctness": 1.0,
+      "question_complexity": 2
+    },
+    "id": "5947ceff-8d4a-11ea-ae7d-54bef70b159e"
+  },
+  {
+    "question": "Koji čimbenik socijalizacije ima formalnu ulogu podučavanja mladih vještinama i znanjima?",
+    "gen_answer": "Zdravstvena zaštita.",
+    "ground_truth": "škola",
+    "contexts": [
+      "Statini imaju važnu ulogu u primarnoj i sekundarnoj prevenciji ishemijske bolesti srca i srčanog infarkta. S druge strane, korištenje vještina ima središnju ulogu u socijalizaciji pojedinca. Zdravstvena je zaštita organizirana na tri razine, pa je riječ o primarnoj, sekundarnoj i tercijarnoj zdravstvenoj zaštiti."
+    ],
+    "scores": {
+      "faithfulness": 0.0,
+      "context_relevance": 0.0,
+      "answer_correctness": 0.0,
+      "question_complexity": 1
+    },
+    "id": "4a02b157-8d4a-11ea-ae7d-54bef70b159e"
+  },
+  {
+    "question": "Što su S. Miller i H. Urey dobili pokusom koji je oponašao uvjete na Zemlji prije otprilike 4 milijarde godina?",
+    "gen_answer": "organski spojevi",
+    "ground_truth": "male organske molekule",
+    "contexts": [
+      "Nitro-spojevi su organski spojevi koji sadrže nitro-skupinu, -NO2, vezanu izravno za ugljikov atom, npr. Abiogeneza\n\nAbiogeneza ili biopoeza prirodni je proces nastanka života iz nežive materije kao što su jednostavni organski spojevi. Miller-Ureyev eksperiment\n\nMiller-Ureyev eksperiment (ili Urey-Millerov eksperiment) bio je eksperiment koji je simulirao hipotetičke uvjete za koje se smatralo da su postojali na Zemlji u prvim fazama nastanka i provjeravali su mogućnost kemijskih početaka života. Pretpostavlja se da postoje i drugi spojevi (vodikov sulfid, različiti organski spojevi, kompleksni anorganski polimeri)."
+    ],
+    "scores": {
+      "faithfulness": 0.5,
+      "context_relevance": 0.5,
+      "answer_correctness": 0.5,
+      "question_complexity": 1
+    },
+    "id": "558b7e14-8d4a-11ea-ae7d-54bef70b159e"
+  },
+  {
+    "question": "Na koji se način konstituira Hrvatski sabor nakon provedenih izbora?",
+    "gen_answer": "Nakon izbora, konstituiranjem Sabora Republike Hrvatske.",
+    "ground_truth": "izborom predsjednika Hrvatskoga sabora na prvoj sjednici",
+    "contexts": [
+      "To doba čini kraj polustoljetnog komunističkog režima i stvaranje samostalne i suverene Republike Hrvatske. Održavanjem ovih izbora te konstituiranjem tako izabranog višestranačkog Sabora Republike Hrvatske, započinje novija hrvatska povijest, odnosno proces osamostaljivanja Hrvatske. Pojavljuju od samog početka suverene i samostalne Republike Hrvatske, zapravo nekoliko godina prije – od Markovićeve privatizacije."
+    ],
+    "scores": {
+      "faithfulness": 0.0,
+      "context_relevance": 0.0,
+      "answer_correctness": 0.0,
+      "question_complexity": 1
+    },
+    "id": "5f5b4a87-8d4a-11ea-ae7d-54bef70b159e"
+  },
+  {
+    "question": "Što je istraživao S. Asch kada je od ispitanika tražio da procjenjuju dužinu linija?",
+    "gen_answer": "Context does not apply.",
+    "ground_truth": "konformizam",
+    "contexts": [
+      "je objavio da će početi raditi na \"Mladom mjesecu\". Vaga za točno mjerenje\n\nVaga za točno mjerenje (srp. Služi kao prethodnik koji će pomoći u stvaranju preduvjeta za povratak ljudske prisutnosti na Mjesecu."
+    ],
+    "scores": {
+      "faithfulness": 0.0,
+      "context_relevance": 0.0,
+      "answer_correctness": 0.0,
+      "question_complexity": 1
+    },
+    "id": "5f5b4ae0-8d4a-11ea-ae7d-54bef70b159e"
+  },
+  {
+    "question": "Na kojoj se razini vlasti donose zakoni o lokalnoj i područnoj (regionalnoj) samoupravi?",
+    "gen_answer": "Državnoj razini.",
+    "ground_truth": "na državnoj",
+    "contexts": [
+      "mogu se dobro prilagoditi raspoloživom prostoru. Zakonom se mogu ustanoviti i druge jedinice lokalne samouprave. U usporedbi uspješnih žena s uspješnim muškarcima u akademskim zvanjima:\nIako se na velikim uzorcima dobivaju statistički značajne razlike u pojedinim testovima i faktorima inteligencije, te razlike nisu brojčano velike i ne dopuštaju generalizaciju na pojedinačnoj razini, tako da dolazimo do zaključka da ne postoje neke bitne ili velike razlike u inteligenciji spolova."
+    ],
+    "scores": {
+      "faithfulness": 0.0,
+      "context_relevance": 0.0,
+      "answer_correctness": 1.0,
+      "question_complexity": 1
+    },
+    "id": "3dd32c38-8d4a-11ea-ae7d-54bef70b159e"
+  },
+  {
+    "question": "Tko u Republici Hrvatskoj može dobiti utočište (azil)?",
+    "gen_answer": "Context does not apply.",
+    "ground_truth": "osobe koje bježe od političkoga progona",
+    "contexts": [
+      "Od tada je Zadar postao administrativno sjedište mletačke vlasti u Dalmaciji. vlasti u Istri kako istar. Za pleistocena Bokom kotorskom tekla je rijeka, koja je u mekšim slojevima izradila kotline."
+    ],
+    "scores": {
+      "faithfulness": 0.0,
+      "context_relevance": 0.0,
+      "answer_correctness": 0.0,
+      "question_complexity": 0
+    },
+    "id": "3dd32c3b-8d4a-11ea-ae7d-54bef70b159e"
+  },
+  {
+    "question": "Koja se od navedenih svojstava odnose na fluidnu inteligenciju?",
+    "gen_answer": "Fluidna inteligencija se odnosi na sposobnost brzog učenja i razmišljanja.",
+    "ground_truth": "Urođena je i razvija se do adolescencije.",
+    "contexts": [
+      "\"G\" se često dijeli na fluidnu i kristaliziranu inteligencija: GF (fluid g, fluidna inteligencija) i GC (kristalizirana inteligencija, eng. Fluidna inteligencija na neki način teče kroz različite oblike inteligentnog ponašanja. U zreloj se dobi odlučio poći u daleku Afriku."
+    ],
+    "scores": {
+      "faithfulness": 0.0,
+      "context_relevance": 0.0,
+      "answer_correctness": 0.0,
+      "question_complexity": 1
+    },
+    "id": "63fd84a0-8d4a-11ea-ae7d-54bef70b159e"
+  },
+  {
+    "question": "Koja se od navedenih vrsta socijalizacije odnosi na razvoj ličnosti pojedinca i na usvajanje temeljnih društvenih norma i vrijednosti?",
+    "gen_answer": "Socijalizacija.",
+    "ground_truth": "primarna",
+    "contexts": [
+      "Druga tvrdnja se pozivala na tzv. Djela mu se dijele na ona koja se bave:\nDruštvenim problemima\n\nPrirodom\n\nNesvrstana: Nasuprot primitivnim, predindustrijskim društvima, u civiliziranim industrijskim društvima Durkheim nalazi razvijenije društvo koje ima organsku solidarnost, u kojima je razvijena podjela rada, gdje se pojedinci razlikuju po socijalnom statusu, karakteru, po ulogama, funkcijama. Tijekom socijalizacije uče se ponašanja koja se smatraju prikladnima za članove određenog društva. U mnogim osnovnim školama djeca se uče kako praviti lutke od čarapa, a mnoge škole također uče kako ih koristiti."
+    ],
+    "scores": {
+      "faithfulness": 0.0,
+      "context_relevance": 0.0,
+      "answer_correctness": 0.0,
+      "question_complexity": 0
+    },
+    "id": "5a98702d-8d4a-11ea-ae7d-54bef70b159e"
+  },
+  {
+    "question": "U trgovačkome centru promotorica demonstrira korištenje novoga usisavača robota. Kako se naziva opisana vrsta promotivne aktivnosti?",
+    "gen_answer": "Promocija robota.",
+    "ground_truth": "unapređenje prodaje",
+    "contexts": [
+      "Internet i digitalna tehnologija pružaju nove prilike za učenje, omogućuju pojedincima direktnu prodaju ideja, usluga ili proizvoda, pristup informacijama te zadovoljavanje emocionalnih i psiholoških potreba. U centru \"Zaslona dobrodošlice\" nalazi se vizualizacija aktivnosti uređaja. Razlikuju se:\n\nDruga vrsta apstinencije je suzdržavanje od spolne aktivnosti i naziva se seksualna apstinencija."
+    ],
+    "scores": {
+      "faithfulness": 0.0,
+      "context_relevance": 0.0,
+      "answer_correctness": 0.0,
+      "question_complexity": 0
+    },
+    "id": "68b04c31-8d4a-11ea-ae7d-54bef70b159e"
+  },
+  {
+    "question": "Količina vode koja za jednu sekundu protječe kroz presjek rijeke:",
+    "gen_answer": "2 m³/s.",
+    "ground_truth": "protjecaj",
+    "contexts": [
+      "Vlasinsko jezero\n\nVlasinsko jezero je umjetno jezero na jugoistoku Srbije sa površinom od 15 km² i dubinom do 35 m. U jezero svakog minuta pritiče dva kubika vode. Na vrhu planine se nalazi kratersko jezero koje se zove Rajsko jezero."
+    ],
+    "scores": {
+      "faithfulness": 0.0,
+      "context_relevance": 0.0,
+      "answer_correctness": 0.0,
+      "question_complexity": 0
+    },
+    "id": "7a88e9d2-88c6-11ea-b03c-fd2767892dea"
+  },
+  {
+    "question": "Pozorno pročitajte povijesni izvor. (...) Prvi korak naš mora biti da kažemo, da mi ne ćemo žandarsku upravu. Radikali nas pitaju, gdje se to batinalo u Hrvatskoj. U Topuskom 1921. godine žandari su tukli ljude, svukli ih gole i pod bajunetima gonili da ljube Pašićevu sliku. S ljudima koji tako rade mi ne ćemo ni u crkvu. (...) Stav koje je organizacije opisan u povijesnome izvoru?",
+    "gen_answer": "Stav o suverenitetu.",
+    "ground_truth": "Hrvatske republikanske seljačke stranke",
+    "contexts": [
+      "Kruna je simbol suvereniteta. i sada na snazi, jer Sabor nije imao u vidu apstraktno hrvatsko kraljevstvo, nego hrvatski narod, koji nadživljuje sve peripetije oko svoga suvereniteta…\". Aktivan je i danas u hrvatskim kulturnim udrugama i Demokratskome savezu Hrvata u Vojvodini, kao i u hrvatskim kulturnim udrugama."
+    ],
+    "scores": {
+      "faithfulness": 0.0,
+      "context_relevance": 0.0,
+      "answer_correctness": 0.0,
+      "question_complexity": 1
+    },
+    "id": "5a987000-8d4a-11ea-ae7d-54bef70b159e"
+  },
+  {
+    "question": "Koje su metode reguliranja začeća u skladu s naukom Katoličke Crkve?",
+    "gen_answer": "Context does not apply",
+    "ground_truth": "Billingsova metoda",
+    "contexts": [
+      "Dio budista smatra, da je pobačaj pogrešan i da život počinje začećem, a dio odobrava pobačaje. Stav je Katoličke Crkve da ljudski život počinje začećem te ga treba poštivati i najbrižnije štititi. ), odnosno tumače kao ljudske osobe sa ljudskim motivima."
+    ],
+    "scores": {
+      "faithfulness": 0.0,
+      "context_relevance": 0.0,
+      "answer_correctness": 0.0,
+      "question_complexity": 0
+    },
+    "id": "4fa466be-8d4a-11ea-ae7d-54bef70b159e"
+  },
+  {
+    "question": "Krila božje ovčice su crvene boje s crnim točkicama. Kako ta obojenost osigurava božjoj ovčici evolucijsku prednost?",
+    "gen_answer": "Context does not apply.",
+    "ground_truth": "Upozorava na otrovnost.",
+    "contexts": [
+      "Ta su oba polja crvene boje. Bubamare\n\nBubamare ili božje ovčice (lat. Najpoznatiji hrvatski punk sastav su \"Božje ovčice\" iz Koprivnice."
+    ],
+    "scores": {
+      "faithfulness": 0.0,
+      "context_relevance": 0.0,
+      "answer_correctness": 0.0,
+      "question_complexity": 0
+    },
+    "id": "63fd843f-8d4a-11ea-ae7d-54bef70b159e"
+  },
+  {
+    "question": "Pozorno pročitajte povijesni izvor. Zato ja, iako grešnik, Trpimir, po Božjoj odredbi vladar Hrvata, nestalan o posljednjem danu kao i času, koji je čovjeku nepoznat, veoma zabrinut za svoju dušu, jednodušnom privolom svih mojih župana, sagradih samostan i ondje dovedoh zbor redovnika. (...) Koji je zbor redovnika doveo vladar spomenut u povijesnome izvoru i gdje ih je doveo?",
+    "gen_answer": "Zbor redovnika doveo je vladara u samostan.",
+    "ground_truth": "benediktince u samostan u Rižinicama",
+    "contexts": [
+      ", Kristov vijenac od trnja i Poncije Pilat (s. Kornelije Tacit u svome djelu \"Anales (Ljetopisi)\"  spominje Isusa Krista kao utemeljitelja sekte kršćana, a koji je bio pogubljen od Poncija Pilata. („Začetnika onoga imena, Krista, pogubio je u doba Tiberijeve vladavine prokurator Poncije Pilat."
+    ],
+    "scores": {
+      "faithfulness": 0.0,
+      "context_relevance": 0.0,
+      "answer_correctness": 0.0,
+      "question_complexity": 0
+    },
+    "id": "667d71c3-8d4a-11ea-ae7d-54bef70b159e"
+  },
+  {
+    "question": "Pri kojoj se promjeni stanja plina ne mijenja volumen plina?",
+    "gen_answer": "Izohorna promjena.",
+    "ground_truth": "pri izohornoj promjeni",
+    "contexts": [
+      "Pretpostavlja se da je već počela fuzija helija u ugljik. Ako plin na temperaturi 0 °C ima tlak \"P\" i volumen \"V\", tada je, uz isti volumen, kod temperature \"T\" (u °C), tlak:\n\nPromjena stanja plina koja se zbiva uz stalan obujam naziva se izohorna promjena stanja. Ako je zvijezda dovoljno masivna bit će moguće fuzioniranje helija."
+    ],
+    "scores": {
+      "faithfulness": 1.0,
+      "context_relevance": 1.0,
+      "answer_correctness": 1.0,
+      "question_complexity": 1
+    },
+    "id": "48802434-8d4a-11ea-ae7d-54bef70b159e"
+  },
+  {
+    "question": "Kojoj ideološkoj orijentaciji pripada politička stranka koja primarno teži očuvanju tradicionalnih vrijednosti nacije te u državnim školama skrbi o vjeronauku vjerske većine?",
+    "gen_answer": "Konservativna.",
+    "ground_truth": "desnici",
+    "contexts": [
+      "Njemačka ima parlamentarni sustav, na čelu Bundesregierung (Savezne vlade) je \"Bundeskanzler\" (Savezni kancelar) kojeg bira parlament te on imenuje savezne ministre. Uglavnom ima ulogu afirmacije jedne političke koncepcije i jedne političke stranke. Rusi njome vladaju preko poljskih komunista i uz pomoć političke policije."
+    ],
+    "scores": {
+      "faithfulness": 0.0,
+      "context_relevance": 0.0,
+      "answer_correctness": 0.5,
+      "question_complexity": 1
+    },
+    "id": "667d71a3-8d4a-11ea-ae7d-54bef70b159e"
+  },
+  {
+    "question": "Koja je od navedenih vrsta kućnih ljubimaca nastala umjetnim odabirom?",
+    "gen_answer": "Context does not apply.",
+    "ground_truth": "dalmatinski pas",
+    "contexts": [
+      "Naziv cerdocyon dolazi od grčke riječi \"kerdo\" što znači lisica i \"cyon\" (pas) što se odnosi na psa i lisicu što su i karakteristike ove životinje Od moćne Kartage do Male Azije razni narodi štovali su skoro ista božanstva vezana za prirodu i ljudske aktivnosti."
+    ],
+    "scores": {
+      "faithfulness": 0.0,
+      "context_relevance": 0.0,
+      "answer_correctness": 0.0,
+      "question_complexity": 0
+    },
+    "id": "63fd8443-8d4a-11ea-ae7d-54bef70b159e"
+  },
+  {
+    "question": "Što su braća Orville i Wilbur Wright konstruirali 1903. godine?",
+    "gen_answer": "Wright Flyer I.",
+    "ground_truth": "zrakoplov",
+    "contexts": [
+      "Wright Flyer II\n\nWright Flyer II je drugi motorni zrakoplov kojega su 1904. godine izgradili Orville i Wilbur Wright. Tek su 1903. braća Orville i Wilbur Wright u SAD-u prvi uspješno poletjeli zrakoplovom s dvostrukim krilima, a letjeli su nepunu minutu. Braća Wright\n\nBraća Orville (, 19. kolovoza 1871. Wright Flyer III\n\nWright Flyer III je treći motorni zrakoplov kojeg su izgradili braća Wright."
+    ],
+    "scores": {
+      "faithfulness": 0.0,
+      "context_relevance": 0.5,
+      "answer_correctness": 0.0,
+      "question_complexity": 1
+    },
+    "id": "41483db3-8d4a-11ea-ae7d-54bef70b159e"
+  },
+  {
+    "question": "Koju je od navedenih reforma proveo atenski državnik Solon?",
+    "gen_answer": "Context does not apply.",
+    "ground_truth": "timokraciju",
+    "contexts": [
+      "Antički povjesničari tvrde kako je Aleksandar spalio Perzepolis za vrijeme pijanstva, navodno je na nagovor jedne grčke hetere (prostitutke) bacio baklju u Kserksovu palaču (hadiš), kako bi udovoljio svojim grčkim saveznicima osvetu za Kserksovo spaljivanje Atene u doba grčko-perzijskih ratova. , atenski vojskovođa i državnik. st. e.) bio je atenski državnik i vojskovođa."
+    ],
+    "scores": {
+      "faithfulness": 0.0,
+      "context_relevance": 0.0,
+      "answer_correctness": 0.0,
+      "question_complexity": 0
+    },
+    "id": "473e7b9d-8d4a-11ea-ae7d-54bef70b159e"
+  },
+  {
+    "question": "Koja je od navedenih tvrdnja karakteristična za Brownovo gibanje?",
+    "gen_answer": "Brownovo gibanje je nasumično gibanje čestica.",
+    "ground_truth": "Molekule se nasumično gibaju.",
+    "contexts": [
+      "Neovisno od Alberta Einsteina, 1906. godine objašnjava Brownovo gibanje preko jednadžbe koja je postala temelj za istraživanje stohastičkih procesa. ); opisao gibanje čestica u otopini, koje je po njemu nazvano Brownovo gibanje. Ta je pojava po njemu nazvana Brownovo gibanje. U odsutnosti vanjskog električnog polja, elektroni se gibaju nasumce poput čestica kod toplinskog gibanja (Brownovo gibanje), što je ujedno i jedina sličnost tih dvaju gibanja."
+    ],
+    "scores": {
+      "faithfulness": 1.0,
+      "context_relevance": 1.0,
+      "answer_correctness": 1.0,
+      "question_complexity": 1
+    },
+    "id": "50c31aea-8d4a-11ea-ae7d-54bef70b159e"
+  },
+  {
+    "question": "Kojim se redoslijedom aktiviraju pojedina područja moždane kore kada osoba začuje zvuk mobitela, odluči ga isključiti i potom to učini?",
+    "gen_answer": "Prvo talamus, zatim moždano deblo, nakon toga slušna kora velikog mozga.",
+    "ground_truth": "senzorna područja – asocijativna područja – motorna područja",
+    "contexts": [
+      "Mogu biti egzokranijalne (akutni mastoiditis, labirintitis, petrozitis, pareza ličnoga živca) i endokranijalne (tromboflebitis sigmoidnog sinusa, meningitis, ekstraduralni apsces, subduralni apsces, apsces velikoga mozga, apsces maloga mozga). Ti se impulsi, koji dolaze uglavnom iz unutarnjih stanica, počinju analizirati već u nižim dijelovima mozga (moždano deblo, talamus), ali se tek u slušnoj kori velikoga mozga potpuno obrađuju i doživljavaju kao osjet sluha. Kora malog mozga (cortex cerebelli) sastoji se od tri sloja:\n\n\nKora velikog mozga (cortex cerebri) pokazuje regionalne različitosti."
+    ],
+    "scores": {
+      "faithfulness": 0.0,
+      "context_relevance": 0.0,
+      "answer_correctness": 0.0,
+      "question_complexity": 2
+    },
+    "id": "5a987013-8d4a-11ea-ae7d-54bef70b159e"
+  },
+  {
+    "question": "Koji je postupak najučinkovitiji u pripremi apsolutnoga etanola iz smjese vode i etanola u kojoj je volumni udio vode 4 %?",
+    "gen_answer": "Destilacija s glicerinom.",
+    "ground_truth": "dehidratiranje pogodnim sredstvom",
+    "contexts": [
+      "Energija fosilnih goriva utrošena na proizvodnju etanola iz šećerne trske i energije dobivenog etanola odnose se kao 1:8, a za proizvodnju etanola iz celuloze i energija dobivenog etanola kao 1 prema 2 ili do 36, ovisno o metodi proizvodnje. Za dobivanje čistog etanola (bezvodnog ili apsolutnog alkohola, gdje je udio alkohola 99% ili veći) s najviše 1% vode u sebi, treba se pri destilaciji ukloniti voda sredstvima za sušenje (npr. 59 % glicerina/39 % vode/1% formalina ili 25% glicerina/75 % etanola\n\n Predmete uroniti u otopinu,do postizanja željene mekoće i pruživosti,"
+    ],
+    "scores": {
+      "faithfulness": 1.0,
+      "context_relevance": 1.0,
+      "answer_correctness": 1.0,
+      "question_complexity": 1
+    },
+    "id": "3dd32c11-8d4a-11ea-ae7d-54bef70b159e"
+  },
+  {
+    "question": "U kojemu su nizu točno kronološki navedeni nastanci grupacija u Europi?",
+    "gen_answer": "Rusija, Nemačka, Austro-Ugarska, Francuska, Italija, Turska, Grčka, Srbija, Rumunjska i Crna Gora.",
+    "ground_truth": "jakobinci → karbonari → dekabristi → austroslavisti",
+    "contexts": [
+      "Velika Britanija\n\nRusija \n\n Njemačka \n\nAustro-Ugarska\n\nFrancuska \n\nItalija \n\n Turska \n\nGrčka \n\nSrbija\n\nRumunjska i Crna Gora također su imale svoje predstavnike."
+    ],
+    "scores": {
+      "faithfulness": 0.0,
+      "context_relevance": 0.0,
+      "answer_correctness": 0.0,
+      "question_complexity": 1
+    },
+    "id": "5a98700b-8d4a-11ea-ae7d-54bef70b159e"
+  },
+  {
+    "question": "Koji od navedenih otoka karakterizira značajna zastupljenost lovačko-skupljačkoga gospodarstva?",
+    "gen_answer": "Otok.",
+    "ground_truth": "Kalimantan",
+    "contexts": [
+      "Osnovne gospodarske djelatnosti ovog kraja oduvijek su bile poljoprivreda i stočarstvo. Najznačajnije gospodarske djelatnosti ovog malog otoka su turizam, ribarstvo i poljoprivreda. Danas se u svijetu oko 4% vodika u industrijskoj primjeni dobije elektrolizom vode."
+    ],
+    "scores": {
+      "faithfulness": 0.0,
+      "context_relevance": 0.0,
+      "answer_correctness": 0.0,
+      "question_complexity": 0
+    },
+    "id": "3dd32bea-8d4a-11ea-ae7d-54bef70b159e"
+  },
+  {
+    "question": "Koji od navedenih otoka pripadaju skupini Velikih Antila?",
+    "gen_answer": "Velike Antile.",
+    "ground_truth": "Jamajka",
+    "contexts": [
+      "U području Velikih Antila i Djevičanskih otoka prevladavaju SI i istočni vjetrovi. Pripada skupini Malih Antila. Vele Sarkane pripadaju kvarnerskoj skupini otoka, cresko-lošinjskom otočju."
+    ],
+    "scores": {
+      "faithfulness": 0.0,
+      "context_relevance": 0.0,
+      "answer_correctness": 0.0,
+      "question_complexity": 0
+    },
+    "id": "46138cc1-8d4a-11ea-ae7d-54bef70b159e"
+  },
+  {
+    "question": "U koji se element društvenoga života ubrajaju moda i glasine?",
+    "gen_answer": "Sociološki element.",
+    "ground_truth": "u kolektivno ponašanje",
+    "contexts": [
+      "Društveni život hrvatske zajednice zamro je. Njime se uređuje tadašnji društveni život. O utemeljitelju sociologije kao znanosti o društvu možemo rezimirati sljedeće:"
+    ],
+    "scores": {
+      "faithfulness": 0.0,
+      "context_relevance": 0.0,
+      "answer_correctness": 0.0,
+      "question_complexity": 0
+    },
+    "id": "473e7be0-8d4a-11ea-ae7d-54bef70b159e"
+  },
+  {
+    "question": "U kojemu su nizu točno kronološki navedeni događaji iz Drugoga svjetskog rata?",
+    "gen_answer": "Context does not apply.",
+    "ground_truth": "evakuacija Dunquerquea → Bitka kod El Alameina → Bitka za Staljingrad → iskrcavanje u Normandiji",
+    "contexts": [
+      "Predsjednik izbjegličke vlade Kraljevine Jugoslavije u Londonu postao je 1944. godine. Do Drugoga svjetskog rata u gradu su živjele velike zajednice Poljaka i Židova."
+    ],
+    "scores": {
+      "faithfulness": 0.0,
+      "context_relevance": 0.0,
+      "answer_correctness": 0.0,
+      "question_complexity": 0
+    },
+    "id": "5a98700c-8d4a-11ea-ae7d-54bef70b159e"
+  },
+  {
+    "question": "Zbog ratne opasnosti Hrvatskomu je saboru onemogućeno redovito zasjedanje, a potrebno je hitno donošenje zakona o elektroničkim komunikacijama. Komu Hrvatski sabor prema Ustavu Republike Hrvatske može dati zakonodavne ovlasti u opisanoj situaciji?",
+    "gen_answer": "Predsjednik.",
+    "ground_truth": "Predsjedniku Republike Hrvatske",
+    "contexts": [
+      "Predsjednik Republike je:\nZa vrijeme ratnog stanja ili u slučaju neposredne ratne opasnosti, ako Predsjedništvo SFRJ nije bilo u mogućnosti da se sastane, predsjednik Republike je donosio uredbe sa zakonskom snagom o pitanjima iz nadležnosti Skupštine SFRJ. Ako Hrvatski sabor nije u zasjedanju, predsjednik Republike ima ovlast da uredbama sa zakonskom snagom uređuje sva pitanja koja zahtijeva ratno stanje. Predsjednik Republike je:\n\n\nPredsjednik Republike je na prijedlog Saveznog izvršnog vijeća za vrijeme ratnog stanja ili u slučaju neposredne ratne opasnosti donosio uredbe sa zakonskom snagom o pitanjima iz nadležnosti Savezne skupštine."
+    ],
+    "scores": {
+      "faithfulness": 0.5,
+      "context_relevance": 1.0,
+      "answer_correctness": 0.5,
+      "question_complexity": 1
+    },
+    "id": "68b04c21-8d4a-11ea-ae7d-54bef70b159e"
+  },
+  {
+    "question": "Koja je od navedenih funkcija tržišna?",
+    "gen_answer": "Tržišna cijena.",
+    "ground_truth": "distribucijska",
+    "contexts": [
+      "U društvu se formiraju i dječja i omladinska odjeljenja. Djeluje kroz tržišni mehanizam interakcije ponude i potražnje, što rezultirala tržišnu cijenu. poljedice tog stanja su :\n1. previsoke cijene\n2. manja potrošnja\n3. visoki trškovi\n4. manja efikasnost\n\n"
+    ],
+    "scores": {
+      "faithfulness": 0.0,
+      "context_relevance": 0.0,
+      "answer_correctness": 0.0,
+      "question_complexity": 0
+    },
+    "id": "46138d09-8d4a-11ea-ae7d-54bef70b159e"
+  },
+  {
+    "question": "Koji je čimbenik najznačajniji u procesu primarne socijalizacije pojedinaca?",
+    "gen_answer": "Obitelj.",
+    "ground_truth": "obitelj",
+    "contexts": [
+      "Najznačajniji čimbenik asirskoga poimanja monarhije bila je uska povezanost između asirskoga kralja i boga Ašura. Najvažniji faktori socijalizacije su: obitelj, škola, kao i šira socijalna zajednica sa svojim formalnim i neformalnim institucijama. \"Poslovnu etiku\" se može definirati kao primjenu općeprihvaćenih etičkih načela u procesu poslovanja pojedinaca i poduzeća."
+    ],
+    "scores": {
+      "faithfulness": 1.0,
+      "context_relevance": 1.0,
+      "answer_correctness": 1.0,
+      "question_complexity": 1
+    },
+    "id": "6054306e-8d4a-11ea-ae7d-54bef70b159e"
+  },
+  {
+    "question": "Kako je Ustavom Republike Hrvatske određena odgovornost ministara Hrvatskomu saboru za rad pojedinačnih ministarstava?",
+    "gen_answer": "Ustav Republike Hrvatske određuje da ministri izvršavaju funkcije u skladu s pravilima izvršnog uređaja, a odgovorni su prema Saboru.",
+    "ground_truth": "Svaki ministar odgovara pojedinačno za svoje područje rada.",
+    "contexts": [
+      "Nakon općih izbora održanih 2000., Ivanić je postao predsjednik Vlade Republike Srpske 2001. Ovlast Vlade Republike Hrvatske odnosila se i na radnje i postupke saveznih organa. Nakon održanih parlamentarnih izbora 2007. godine, njegova stranka dobila je pojedinačno najviše zastupnika u novom sazivu Hrvatskog sabora te mu je predsjednik Republike Hrvatske Stjepan Mesić 15. prosinca, nakon obavljenih konzultacija s predsjednicima parlamentarnih stranaka, dao mandat za sastavljanje nove Vlade Republike Hrvatske."
+    ],
+    "scores": {
+      "faithfulness": 0.0,
+      "context_relevance": 0.0,
+      "answer_correctness": 0.5,
+      "question_complexity": 0
+    },
+    "id": "4880249e-8d4a-11ea-ae7d-54bef70b159e"
+  },
+  {
+    "question": "Što izražava kršćanska molitva klanjanja?",
+    "gen_answer": "Klanjanje.",
+    "ground_truth": "priznanje Božje apsolutnosti",
+    "contexts": [
+      "Te prakse su: Izvršavanje Božjih zapovjedi (micvot\"); Kontemplacija Božjih atributa - hitbonenut; Razgovor s Bogom - tefila (obično se prevodi kao \"molitva\" ali je zapravo neprevodiva; Potpuno priljubljivanje Bogu, doslovno: \"priljepljivanje\" Bogu - devekut\". Molitva\n\nMolitva je religiozni čin izgovaranja određenog teksta, u kojem se vjernici obraćaju Bogu. Izvješće:\nZbornik pjesama s ovog Susreta nosi ime \"K Bogu, koji razveseljuje\"."
+    ],
+    "scores": {
+      "faithfulness": 0.0,
+      "context_relevance": 0.0,
+      "answer_correctness": 0.0,
+      "question_complexity": 1
+    },
+    "id": "41483df3-8d4a-11ea-ae7d-54bef70b159e"
+  },
+  {
+    "question": "Kojim se od navedenih problema istraživanja može baviti diferencijalna psihologija?",
+    "gen_answer": "Diferencijalna psihologija istražuje razlike između ljudi.",
+    "ground_truth": "Razlikuju li se rezultati na testovima ličnosti ovisno o spolu?",
+    "contexts": [
+      "Ako je reaktant koji se testira aldehid, rezultat Tollensovog testa je stvaranje srebrnog zrcala. Okretanje individualnoj psihologiji, tj. \"Giù la testa\"; eng. Priklonjen je idealizmu novokantovskog smjera, zatim empirizmu, a kasnije u psihologiji zastupa biheviorizam."
+    ],
+    "scores": {
+      "faithfulness": 0.0,
+      "context_relevance": 0.0,
+      "answer_correctness": 0.0,
+      "question_complexity": 2
+    },
+    "id": "56b71e45-8d4a-11ea-ae7d-54bef70b159e"
+  },
+  {
+    "question": "U vreli (95 °C) čaj bacimo hladne ledene kocke (-18 °C). Ledene kocke daju pucketavi zvuk. Što je uzrok ove pojave?",
+    "gen_answer": "Hladne pukotine.",
+    "ground_truth": "Ledene se kocke od toplog čaja počnu širiti, zbog toga puknu i to daje pucketavi glas.",
+    "contexts": [
+      "Zato ulovljene škarpine možemo naći u raznim nijansama. Hladne pukotine nastaju pri hlađenju zavarenog spoja na temperaturi ispod 200 ºC, a čak mogu nastati i nekoliko dana nakon zavarivanja, pa su tako u tom slučaju dobile naziv \"zakašnjele\" hladne pukotine. Postoje različite klasifikacije grešaka u zavarenim spojevima, a jedna od njih je sljedeća (EN 26520): greške u zavarenim spojevima koje mogu nastati u izradi i greške u zavarenim spojevima koje mogu nastati u primjeni (izradi)."
+    ],
+    "scores": {
+      "faithfulness": 1.0,
+      "context_relevance": 0.5,
+      "answer_correctness": 0.5,
+      "question_complexity": 0
+    },
+    "id": "77e85712-88c6-11ea-b79e-af0cba50c6c0"
+  },
+  {
+    "question": "Koja je od navedenih tvrdnja karakteristična za dijete u senzomotornoj fazi razvoja?",
+    "gen_answer": "Context does not apply.",
+    "ground_truth": "Traži igračku koja je pala izvan njegova vidnoga polja.",
+    "contexts": [
+      "umjerene vlažne klime, jako važno za bioraznolikost životinja i biljaka. Ti privremeni oblici organizacije tijekom kasnog fetalnog razdoblja su neurobiološka podloga privremenih oblika funkcionalne aktivnosti i obrazaca ponašanja u nedonoščadi pa je njihovo detaljno poznavanje važno za razumijevanje razvoja moždane kore čovjeka. Jedno vrlo važno pitanje u vezi ponašanja pterosaura je način na koji su letjeli."
+    ],
+    "scores": {
+      "faithfulness": 0.0,
+      "context_relevance": 0.0,
+      "answer_correctness": 0.0,
+      "question_complexity": 0
+    },
+    "id": "56b71e55-8d4a-11ea-ae7d-54bef70b159e"
+  },
+  {
+    "question": "Kako se naziva nesudjelovanje građana s biračkim pravom u glasovanju?",
+    "gen_answer": "Context does not apply.",
+    "ground_truth": "apstinencija",
+    "contexts": [
+      "Ustav iz 2006. godine je razložio vlast na zakonodavnu, izvršnu i sudsku, gdje je se „odnos triju grana vlasti zasniva na ravnoteži i međusobnoj kontroli“. Pasivno biračko pravo\n\nPravo sudjelovati na izborima kao kandidat te biti izabran za predstavnika (zastupnika) građana u vlasti, u izbornom pravu naziva se pasivno biračko pravo. Poduzeće može imati reputaciju koja se zasniva na načinu na koji se njezini zaposlenici odnose prema svojim klijentima."
+    ],
+    "scores": {
+      "faithfulness": 0.0,
+      "context_relevance": 0.0,
+      "answer_correctness": 0.0,
+      "question_complexity": 1
+    },
+    "id": "41483d87-8d4a-11ea-ae7d-54bef70b159e"
+  },
+  {
+    "question": "Kojom je inkvizicijom upravljao Tomaso Torquemada?",
+    "gen_answer": "Španjolskom inkvizicijom.",
+    "ground_truth": "španjolskom",
+    "contexts": [
+      "Tomaso Burato\n\nTomaso Burato (Dubrovnik, Austrijsko Carstvo, 27. ožujka 1840. Svaneti je postala vojvodstvo (\"saeristavo\") kojom je upravljao vojvoda (\"eristavi\"). Jedan od razloga osnivanja ove inkvizicije bio je papin gubitak kontrole nad Španjolskom inkvizicijom koja je već tada postala sredstvom političke borbe španjolskih kraljeva. Pizonova nagrada bila je provincija Makedonija kojom je upravljao od 57. pr."
+    ],
+    "scores": {
+      "faithfulness": 0.0,
+      "context_relevance": 0.0,
+      "answer_correctness": 1.0,
+      "question_complexity": 1
+    },
+    "id": "50c31b73-8d4a-11ea-ae7d-54bef70b159e"
+  },
+  {
+    "question": "S kojim je ciljem papa Pavao III. sazvao Tridentski sabor?",
+    "gen_answer": "Context does not apply.",
+    "ground_truth": "obnove Katoličke Crkve",
+    "contexts": [
+      "Liturgija došašća ostala je nepromijenjena sve do Drugoga vatikanskog sabora, koji je uveo manje izmjene kako bi jasno odredio duh korizmenog vremena i vremena došašća. vatikanskog sabora i od Pavla VI. Kao biskup oduševljeno sudjeluje u radu"
+    ],
+    "scores": {
+      "faithfulness": 0.0,
+      "context_relevance": 0.0,
+      "answer_correctness": 0.0,
+      "question_complexity": 0
+    },
+    "id": "60543081-8d4a-11ea-ae7d-54bef70b159e"
+  },
+  {
+    "question": "Zvuk dolazi okomito na granicu između zraka i vode. Što će se dogoditi s valnom duljinom i brzinom zvuka pri prijelazu iz zraka u vodu?",
+    "gen_answer": "Valna duljina se smanji, brzina se poveća.",
+    "ground_truth": "Povećat će se brzina zvuka i valna duljina.",
+    "contexts": [
+      "Kod longitudinalnih valova, na primjer kod valova zvuka ne može u zraku biti nikakve razlike u bilo kojem smjeru, okomitom na smjer širenja zvuka. Valovi zvuka koji se šire od svog izvora u obliku promjena gustoće zraka su prostorni valovi. Reflektirani valovi pojačavaju zvučne valove koji dolaze direktno od izvora zvuka."
+    ],
+    "scores": {
+      "faithfulness": 0.0,
+      "context_relevance": 0.0,
+      "answer_correctness": 0.5,
+      "question_complexity": 1
+    },
+    "id": "558b7e5c-8d4a-11ea-ae7d-54bef70b159e"
+  },
+  {
+    "question": "Koja su osnovna polja koja korisnik popunjava pri pisanju poruke elektroničke pošte?",
+    "gen_answer": "Odgovor: Naslov, tekst, prijemnik.",
+    "ground_truth": "adresa primatelja, naslov, sadržaj",
+    "contexts": [
+      ", npr. Primjer XML elementa\n\n\"Ovaj element kaže da je sadržaj unutar njega naslov naše poruke\". Za čitanje (i slanje) elektroničke pošte rabimo programe koje zovemo \"klijenti e-pošte\". : ب‎ـتـ‎ـكـ‎مـ) je islamska osnovna škola, koja djeluje pri Islamskoj zajednici."
+    ],
+    "scores": {
+      "faithfulness": 0.0,
+      "context_relevance": 0.0,
+      "answer_correctness": 0.5,
+      "question_complexity": 1
+    },
+    "id": "65065e48-8d4a-11ea-ae7d-54bef70b159e"
+  },
+  {
+    "question": "Poduzetnik je za potrebu proširenja proizvodnje odlučio unajmiti poljoprivredne strojeve. Kojemu činitelju proizvodnje pripadaju navedena dobra?",
+    "gen_answer": "Kapucinima.",
+    "ground_truth": "kapitalu",
+    "contexts": [
+      "Godine 1525. od opservanata su se odvojili kapucini (zbog još strožeg zahtjeva za neposjedovanjem materijalnih dobara). Time je ostvarila i jedan od materijalnih uvjeta za uvođenje strojeva u proizvodnju. Danas je poznati pripadnik obitelji Zoran Radimir, najveći kolekcionar materijalnih i kulturnih dobara Dobrote."
+    ],
+    "scores": {
+      "faithfulness": 0.0,
+      "context_relevance": 0.0,
+      "answer_correctness": 0.0,
+      "question_complexity": 1
+    },
+    "id": "68b04c2a-8d4a-11ea-ae7d-54bef70b159e"
+  },
+  {
+    "question": "U kojemu su nizu točno kronološki poredani događaji iz povijesti Bizanta?",
+    "gen_answer": "Context does not apply.",
+    "ground_truth": "pogibija cara Valensa kod Hadrianopola → Justinijanova rekonkvista → Slaveni, Avari i Perzijanci napali Konstantinopol → car Aleksije I. Komnen dodijelio povlastice Veneciji",
+    "contexts": [
+      "Humanost, jednakost i političke slobode teoretski su temeljna obilježja otvorenog društva, ali u praksi dolazi do anomalija. U knjizi \"Bizant i Rat: Temeljna vojna i ratovodstvena obilježja bizantskoga društva 600.-1453.\" Seksologija\n\nPo definiciji koju daje Opća enciklopedija JLZ, Seksologija je znanost koja se bavi proučavanjem spolnosti; istražuje komponente i manifestacije ljudske spolnosti."
+    ],
+    "scores": {
+      "faithfulness": 0.0,
+      "context_relevance": 0.0,
+      "answer_correctness": 0.0,
+      "question_complexity": 1
+    },
+    "id": "68b04c59-8d4a-11ea-ae7d-54bef70b159e"
+  },
+  {
+    "question": "Jedna leća ima jakost j 1 = 1 m -1 , a druga j 2 = - 1 m -1 . Koja je od navedenih tvrdnja točna?",
+    "gen_answer": "Jedna leća je konveksna, druga konkavna.",
+    "ground_truth": "Leća jakosti j 1 daje i uspravne i obrnute slike, a leća jakosti j 2 daje uvijek uspravne slike.",
+    "contexts": [
+      "2) 3    i    3 + 2    su ekvivalentni. 3 HO\n\n4. Za \"j\" = 5/2 moguće su projekcije + Pikrinska kiselina može se proizvesti nitriranjem fenola, acetilsalicilne kiseline, te benzena ( Wolfenstein-Boters reakcija )."
+    ],
+    "scores": {
+      "faithfulness": 0.0,
+      "context_relevance": 0.0,
+      "answer_correctness": 0.5,
+      "question_complexity": 2
+    },
+    "id": "676b7483-8d4a-11ea-ae7d-54bef70b159e"
+  },
+  {
+    "question": "Koje se vrenje upotrebljava u proizvodnji alkoholnoga octa?",
+    "gen_answer": "alkoholno vrenje",
+    "ground_truth": "octeno vrenje",
+    "contexts": [
+      "Za 2-5 dana počinje vrenje koje završava za otprilike 7 dana. cijepa se na alkohol (etanol) i ugljikov dioksid (alkoholno vrenje). Vrenje i zrenje medovine traje otprilike 3 mjeseca."
+    ],
+    "scores": {
+      "faithfulness": 0.5,
+      "context_relevance": 0.5,
+      "answer_correctness": 0.0,
+      "question_complexity": 0
+    },
+    "id": "4d4489c6-8d4a-11ea-ae7d-54bef70b159e"
+  },
+  {
+    "question": "Kojom rijekom prolazi sjeverni dio granice između Njemačke i Poljske?",
+    "gen_answer": "Svratka.",
+    "ground_truth": "Odrom",
+    "contexts": [
+      "dječjih brakova, odnosno njihovog ugovaranja dok se budući supružnici nisu ni rodili. Od tromeđe Češke, Njemačke i Poljske, rijeka čini granicu između Njemačke i Poljske (198 km). Bitka je bila između Njemačke i Poljske."
+    ],
+    "scores": {
+      "faithfulness": 0.0,
+      "context_relevance": 0.0,
+      "answer_correctness": 0.0,
+      "question_complexity": 1
+    },
+    "id": "65065e36-8d4a-11ea-ae7d-54bef70b159e"
+  },
+  {
+    "question": "Na tresetu odlično uspijevaju acidofilne ili kremene biljke. Kojoj će se od navedenih vrsta pospješiti rast dodatkom treseta u tlo prije sadnje?",
+    "gen_answer": "Acidofilne.",
+    "ground_truth": "kiselici",
+    "contexts": [
+      "Ženske su biljke veće i nose brojne cvjetove, dok su muške manje i tvore cvatove u obliku metlice. Biljke slanuše\n\nBiljke slanuše su biljke koje rastu u priobalju. Geofiti\n\nGeofite su biljke koje imaju podzemnu stabiljku."
+    ],
+    "scores": {
+      "faithfulness": 0.0,
+      "context_relevance": 0.0,
+      "answer_correctness": 0.0,
+      "question_complexity": 0
+    },
+    "id": "676b7454-8d4a-11ea-ae7d-54bef70b159e"
+  },
+  {
+    "question": "Koja je od navedenih biljaka prilagođena sušnim staništima?",
+    "gen_answer": "Kserofite.",
+    "ground_truth": "maslina",
+    "contexts": [
+      "Biljke rastu u raznovrsnim prirodnim uvjetima i tako stvaraju mnoštvo raznolikih flornih elemenata i njihovih vegetacijskih zajednica. Biljke koje su prilagođene suhoj klimi se nazivaju kserofitima, a u njih spadaju sukulentne biljke, geofiti, sklerofitne i slične biljke. Epifitne biljke\n\nIzraz epifiti se odnosi na sve biljke koje su pričvršćene ili rastu na drugog živoj biljci."
+    ],
+    "scores": {
+      "faithfulness": 1.0,
+      "context_relevance": 1.0,
+      "answer_correctness": 0.5,
+      "question_complexity": 2
+    },
+    "id": "4d4489da-8d4a-11ea-ae7d-54bef70b159e"
+  },
+  {
+    "question": "Koja od navedenih pojava dokazuje da je svjetlost transverzalni val?",
+    "gen_answer": "Interferencija.",
+    "ground_truth": "polarizacija",
+    "contexts": [
+      "Prema njima, promjene u električnom polju uzrokuju promjene u magnetskome polju i obrnuto i dovoljno je u nekom trenutku poznavati električno i magnetsko polje u prostoru kako bi se jednoznačno mogle odrediti vremenske promjene polja u budućnosti. Ogib, interferencija i polarizacija su pokazali da je svjetlost transverzalni val. Transverzalni val\n\nTransverzalni val je val kod kojeg čestice titraju okomito na smjer širenja vala."
+    ],
+    "scores": {
+      "faithfulness": 1.0,
+      "context_relevance": 1.0,
+      "answer_correctness": 1.0,
+      "question_complexity": 1
+    },
+    "id": "3dd32bde-8d4a-11ea-ae7d-54bef70b159e"
+  },
+  {
+    "question": "Koja je od navedenih tvrdnja točna za egzotermnu promjenu koja se događa u zatvorenoj, ali neizoliranoj posudi?",
+    "gen_answer": "ΔG < 0.",
+    "ground_truth": "Smanjuje se energija sustava.",
+    "contexts": [
+      "Reakcija je burna i vrlo egzotermna. Ova je reakcija jako egzotermna. slobodna energija kemijske reakcije, ΔG, definira se na sljedeći način: ΔG = ΔH - TΔS, gdje je ΔH ukupna oslobođena energija (reakcijska entalpija), T reakcijska temperatura (izoterma reakcija), a ΔS promjena entropije."
+    ],
+    "scores": {
+      "faithfulness": 0.5,
+      "context_relevance": 0.0,
+      "answer_correctness": 0.0,
+      "question_complexity": 0
+    },
+    "id": "50c31b41-8d4a-11ea-ae7d-54bef70b159e"
+  },
+  {
+    "question": "Imamo dva različita izotopa ugljena. Koje im je zajedničko svojstvo?",
+    "gen_answer": "Kemijski element.",
+    "ground_truth": "Redni broj dva izotopa je isti.",
+    "contexts": [
+      "Najveća brzina koju je mogao postići bila je 31 km/h, a autonomija 150 km. Atomi istog kemijskog elementa koji imaju različite mase zovu se izotopi. Atomi male atomske mase usporavaju neutrone zato što im neutroni predaju jedan dio svoje kinetičke energije, a ne odbijaju se od njih istom brzinom kao od atoma velike atomske mase."
+    ],
+    "scores": {
+      "faithfulness": 0.0,
+      "context_relevance": 0.0,
+      "answer_correctness": 0.0,
+      "question_complexity": 0
+    },
+    "id": "77d1a9c2-88c6-11ea-9580-e90b5d216c49"
+  },
+  {
+    "question": "Kako se naziva zabrana svakoga medijskog izvještavanja o političkim strankama, kandidatima ili izbornim programima na dan uoči izbora i na dan izbora?",
+    "gen_answer": "Badnji dan.",
+    "ground_truth": "izborna šutnja",
+    "contexts": [
+      "Dan uoči Božića naziva se Badnji dan. Na dan izbora, kao i na dan koji mu prethodi traje tzv. Državno izborno povjerenstvo podsjetilo je da se na dan održavanja izbora do zatvaranja birališta, kao i dan ranije, zabranjuje svaka izborna promidžba, objavljivanje procjena izbornih rezultata, kao i objavljivanje prethodnih, neslužbenih rezultata izbora. Dan provedbe izbora je neradni dan."
+    ],
+    "scores": {
+      "faithfulness": 0.0,
+      "context_relevance": 0.5,
+      "answer_correctness": 0.0,
+      "question_complexity": 0
+    },
+    "id": "667d71a0-8d4a-11ea-ae7d-54bef70b159e"
+  },
+  {
+    "question": "Koji je od navedenih filozofa smatrao da su moralni osjećaji temelj moralnoga prosuđivanja i djelovanja?",
+    "gen_answer": "Fichte.",
+    "ground_truth": "David Hume",
+    "contexts": [
+      "Wernera Marxa se smatra jednim od vodećih mislilaca njemačkog idealizma i stručnjakom za Heideggerovu misao. Posebice u filozofiji označava autore koji moralu pridaju posebno mjesto i drže moralnost glavnim načelom za tumačenje čitave stvarnosti (J. G. Fichte) (moralizam). Kao i Marx, mladohegelovci su bili kritični spram Hegelovih metafizičkih pretpostavki, no prisvojili su njegovu dijalektičku metodu kako bi kritizirali postojeće društvo, politiku i religiju. )"
+    ],
+    "scores": {
+      "faithfulness": 0.0,
+      "context_relevance": 0.0,
+      "answer_correctness": 0.0,
+      "question_complexity": 0
+    },
+    "id": "4d4489e7-8d4a-11ea-ae7d-54bef70b159e"
+  },
+  {
+    "question": "U kojemu su nizu točno kronološki poredani događaji iz razdoblja nastanka samostalne i suverene Republike Hrvatske?",
+    "gen_answer": "Prvi izbori 1990., konstituiranje Sabora, izbor u Delegaciju, donošenje Ustava.",
+    "ground_truth": "konstituiranje prvoga višestranačkog sabora → početak tzv. balvan-revolucije → prihvaćanje prvoga ustava Republike Hrvatske → krvavi Uskrs",
+    "contexts": [
+      "Na prvim demokratskim izborima 1990. godine izabran je za zastupnika u Sabor Socijalističke Republike Hrvatske, te nakon konstituiranja prvoga višestranačkog Sabora, izabran je za člana Delegacije Republike Hrvatske u Saveznoj Skupštini SFRJ u Beogradu. Godina 1990. ostat će zabilježena u hrvatskoj povijesti kao godina donošenja prvoga Ustava neovisne Republike Hrvatske. Zalagao se za međunarodno priznanje samostalne i suverene Republike Hrvatske, Republike Slovenije i Bosne i Hercegovine."
+    ],
+    "scores": {
+      "faithfulness": 1.0,
+      "context_relevance": 1.0,
+      "answer_correctness": 0.5,
+      "question_complexity": 0
+    },
+    "id": "667d71e4-8d4a-11ea-ae7d-54bef70b159e"
+  },
+  {
+    "question": "Koja se od navedenih tvrdnja odnosi na značajku Weberova idealnoga tipa birokracije?",
+    "gen_answer": "Stratifikacija temeljena na prestižu i moći.",
+    "ground_truth": "Službenici moraju imati kvalifikacije za obavljanje svojega posla.",
+    "contexts": [
+      "Hijerarhija\n\nHijerarhija, u zajednicama, stupnjevanje vlasti, činova i dostojanstava na osnovi podređenosti-nadređenosti. Iako su birokracije postojale kroz povijest, Weber je primarno zainteresiran za birokracije u modernim zapadnim društvima. Weberova teorija je pogodna za proučavanje nejednakosti socijalističkih društava u kojima ne postoji stratifikacija temeljena na privatnom vlasništvu (jer je ukinuto), nego se temelji na prestižu i moći."
+    ],
+    "scores": {
+      "faithfulness": 0.5,
+      "context_relevance": 0.5,
+      "answer_correctness": 0.0,
+      "question_complexity": 2
+    },
+    "id": "667d71fd-8d4a-11ea-ae7d-54bef70b159e"
+  },
+  {
+    "question": "Što se događa s viškom šećera u zdravome organizmu?",
+    "gen_answer": "Višak šećera se pretvara u glukozu i fruktozu.",
+    "ground_truth": "Pohranjuje se u obliku glikogena.",
+    "contexts": [
+      "Većina izotopa platine raspada se nekom kombinacijom beta raspada i alfa raspada. Uz pomoć kiselina, šećer se pretvara u glukozu i fruktozu. U slučaju modificiranog škroba , obvezno se navodi izvor dobivanja škroba ako je taj izvor biljka koja se svrstava u alergene ( npr. Većina distrikta se nalazi u sjevernom dijelu otoka Savai'i, prostire se na 223 km."
+    ],
+    "scores": {
+      "faithfulness": 0.5,
+      "context_relevance": 0.0,
+      "answer_correctness": 0.0,
+      "question_complexity": 0
+    },
+    "id": "4d4489cc-8d4a-11ea-ae7d-54bef70b159e"
+  },
+  {
+    "question": "Koji je prema Renéu Descartesu prvi i siguran temelj spoznavanja koji se ne može osporiti metodičkom skepsom?",
+    "gen_answer": "Svjetlost.",
+    "ground_truth": "samoizvjesnost spoznavajućega subjekta",
+    "contexts": [
+      "Upozorenje na spremnost od onoga što je već došlo i onoga što već dolazi ili će doći. Kant, 150 godina nakon Descartesa, razradio je sustavnu kritiku protiv \"dogmatskog drijemeža\", koja treba dovesti do različivanja onoga što se može sigurno spoznati i onog što se ne može. Njegov prikaz povijesti jest većina onoga što znamo o dinastiji Qin i ranom periodu dinastije Han."
+    ],
+    "scores": {
+      "faithfulness": 0.0,
+      "context_relevance": 0.0,
+      "answer_correctness": 0.0,
+      "question_complexity": 0
+    },
+    "id": "65065e05-8d4a-11ea-ae7d-54bef70b159e"
+  },
+  {
+    "question": "Koja je od navedenih tvrdnja postulat specijalne teorije relativnosti?",
+    "gen_answer": "Context does not apply.",
+    "ground_truth": "Brzina svjetlosti ista je u svim inercijskim referentnim sustavima.",
+    "contexts": [
+      "Istraživačka će knjižnica općenito sadržavati primarnu kao i sekundarnu literaturu. teorija relativnosti. Matematička teorija koja se općenito bavi proučavanjem formalnih jezika se zove \"teorija formalnih jezika\"."
+    ],
+    "scores": {
+      "faithfulness": 0.0,
+      "context_relevance": 0.0,
+      "answer_correctness": 0.0,
+      "question_complexity": 0
+    },
+    "id": "50c31af5-8d4a-11ea-ae7d-54bef70b159e"
+  },
+  {
+    "question": "Koji je psiholog uveo pojam mentalne dobi pri određivanju inteligencije?",
+    "gen_answer": "Context does not apply.",
+    "ground_truth": "Alfred Binet",
+    "contexts": [
+      "Godine 1975., nagrađen je ACM-ovom Turingovom nagradom, za doprinos razvoju umjetne inteligencije i psihologije ljudske kognicije. Kvocijent inteligencije\n\nKvocijent inteligencije (njem. Snimanje filma započelo je nedugo nakon distribucije prvoga, a objavljeno je kako će \"\", biti samostalan film koji neće zahtijevati poznavanje radnje prvoga nastavka."
+    ],
+    "scores": {
+      "faithfulness": 0.0,
+      "context_relevance": 0.0,
+      "answer_correctness": 0.0,
+      "question_complexity": 0
+    },
+    "id": "4a02b143-8d4a-11ea-ae7d-54bef70b159e"
+  },
+  {
+    "question": "Koja vrsta spoja nastaje oksidacijom primarnoga alkohola kalijevim permanganatom u kiselome mediju?",
+    "gen_answer": "Karboksilna kiselina.",
+    "ground_truth": "karboksilna kiselina",
+    "contexts": [
+      "Grupa \"G\" јe Abelova grupa (ili komutativna) ako јe operaciјa komutativna; to јest, za svaki \"a\", \"b\" iz \"G\", \"a\" * \"b\" = \"b\" * \"a\". Oksidacijom s primjerice kalijevim permanganatom se dobija ftalna kiselina. aluminijev hidroksid (Al(OH))"
+    ],
+    "scores": {
+      "faithfulness": 0.0,
+      "context_relevance": 0.5,
+      "answer_correctness": 1.0,
+      "question_complexity": 1
+    },
+    "id": "48802483-8d4a-11ea-ae7d-54bef70b159e"
+  },
+  {
+    "question": "Dva tijela, zbog djelovanja gravitacijske sile među njima, vrše ubrzano gibanje jedan prema drugom. Što možemo tvrditi o udaljenosti među njima?",
+    "gen_answer": "Udaljenost je mala.",
+    "ground_truth": "Udaljenost se između tijela može povećati, smanjivati a može čak biti i konstantna(stalna).",
+    "contexts": [
+      "Razmnožava se od sredine prosinca do sredine veljače. U polju gravitacije tijela se gibaju ubrzano. Posvađale su se nakon što se Šeherezada naljutila na nju jer joj je skrivala da Onur ima kćer."
+    ],
+    "scores": {
+      "faithfulness": 0.5,
+      "context_relevance": 0.5,
+      "answer_correctness": 0.5,
+      "question_complexity": 2
+    },
+    "id": "7260c860-88c6-11ea-9948-f539ccb75afc"
+  },
+  {
+    "question": "Kako se u sociologiji naziva mali broj ljudi u stalnoj interakciji koji su snažno emotivno povezani?",
+    "gen_answer": "Mali broj ljudi u stalnoj interakciji koji su snažno emotivno povezani se u sociologiji naziva **grupom**.",
+    "ground_truth": "primarna grupa",
+    "contexts": [
+      "No, uz to se mogu javiti značajne teškoće u obrascima ponašanja i međuljudskih odnosa. Ljudsko vezanje\n\nLjudsko vezanje je proces razvoja bliskih međuljudskih odnosa. Kao i kod svim međuljudskih odnosa, seksualna ekspresija zavisi od karaktera veze."
+    ],
+    "scores": {
+      "faithfulness": 0.0,
+      "context_relevance": 0.0,
+      "answer_correctness": 0.0,
+      "question_complexity": 0
+    },
+    "id": "473e7bda-8d4a-11ea-ae7d-54bef70b159e"
+  },
+  {
+    "question": "Od dolje navedenih tvrdnji izaberite onu koja je istinita, a odnosi se na elektromagnetske valove!",
+    "gen_answer": "Transverzalni val.",
+    "ground_truth": "U vakumu im je brzina širenja 300 000 km/s. .",
+    "contexts": [
+      "Transverzalni val\n\nTransverzalni val je val kod kojeg čestice titraju okomito na smjer širenja vala. Znamo, da je svjetlost elektromagnetski val. Svjetlost je elektromagnetski val."
+    ],
+    "scores": {
+      "faithfulness": 0.0,
+      "context_relevance": 0.0,
+      "answer_correctness": 0.0,
+      "question_complexity": 0
+    },
+    "id": "77d18e92-88c6-11ea-9580-e90b5d216c49"
+  },
+  {
+    "question": "Što je od navedenoga zajedničko mužjacima čudnovatoga kljunaša, klokana i dabra?",
+    "gen_answer": "Svci su lični.",
+    "ground_truth": "dlaka",
+    "contexts": [
+      "Naziv cerdocyon dolazi od grčke riječi \"kerdo\" što znači lisica i \"cyon\" (pas) što se odnosi na psa i lisicu što su i karakteristike ove životinje Od moćne Kartage do Male Azije razni narodi štovali su skoro ista božanstva vezana za prirodu i ljudske aktivnosti."
+    ],
+    "scores": {
+      "faithfulness": 0.0,
+      "context_relevance": 0.0,
+      "answer_correctness": 0.0,
+      "question_complexity": 0
+    },
+    "id": "558b7e19-8d4a-11ea-ae7d-54bef70b159e"
+  },
+  {
+    "question": "Gorenje butana opisano je jednadžbom kemijske reakcije 2 C 4 H 10 + 13 O 2 → 8 CO 2 + 10 H 2 O. Koja je od navedenih tvrdnja o brzini trošenja reaktanta ili brzini nastajanja produkta točna?",
+    "gen_answer": "Brzina trošenja butana je 2 molovi po jednadžbi.",
+    "ground_truth": "Brzina trošenja butana dvostruko je veća od brzine reakcije.",
+    "contexts": [
+      "Ako platina može katalizirati kemijske reakcije koje se bez nje odvijaju pri temperaturi od 1000 °C, može li paladij katalizirati nuklearne reakcije koje se zbivaju pri 10 000 000 °C. Na najjednostavnijem primjeru:\n\nformula_1\n\nbrzina formiranja produkta C je:\n\nformula_2\n\ngdje je:\n\nformula_3 - brzina kemijske reakcije\n\nformula_4 - koeficijent proporcionalnosti\n\nformula_5 - koncentrаcije reаktanata A i B\n\nPošto su koeficijenti ispred reaktanata rijetko 1, opći slučaj bi glasio:\n\nformula_6\n\nformula_7\nPrimjenjeno na povratne kemijske reakcije:\n\nformula_8\n\nBrzina tijeka reakcije u desno je: formula_9 a u lijevo: formula_10; \ngdje će se C i D formirati kao produkti direktne reakcije i trošiti će se kao reaktanti u povratnoj reakciji. Prosječna temperatura u siječnju kreće se od -12 ° do -14 ° C, a prosječna temperatura u srpnju kreće se od 24 ° do 26 ° C."
+    ],
+    "scores": {
+      "faithfulness": 0.0,
+      "context_relevance": 0.0,
+      "answer_correctness": 0.5,
+      "question_complexity": 0
+    },
+    "id": "5de400a9-8d4a-11ea-ae7d-54bef70b159e"
+  },
+  {
+    "question": "Koji se od navedenih organizama parazitski hrane pšenicom?",
+    "gen_answer": "Context does not apply.",
+    "ground_truth": "rđe",
+    "contexts": [
+      "Pored grabežljivih, ima i grinja koje se hrane biljkama i gljivama, ali i takvih koje žive od strvina ili odumrlog tkiva živih organizama (nekrotično tkivo). Pored toga, mnoge vrste grinja žive parazitski. Zbog toga su \"Zottarella\" i \"Bayerntaler\" promijenjeni u \"garantirano bez genetski modificiranih organizama i uvozne stočne hrane\"."
+    ],
+    "scores": {
+      "faithfulness": 0.0,
+      "context_relevance": 0.0,
+      "answer_correctness": 0.0,
+      "question_complexity": 0
+    },
+    "id": "4fa46766-8d4a-11ea-ae7d-54bef70b159e"
+  },
+  {
+    "question": "Koji evanđelist u svojemu evanđelju donosi najviše podataka o ljudskim crtama Isusova lika?",
+    "gen_answer": "Lukas.",
+    "ground_truth": "sv. Marko",
+    "contexts": [
+      "Pavao uspoređuje smrt i uskrsnuće s golim zrnom [pšenice], koje kasnije dobiva svoje tijelo. Isusove prispodbe imaju autobiografski karakter s događajima iz Isusova života. Nakon toga odlazi osvetiti se svima koje smatra odgovornima za njezinu smrt."
+    ],
+    "scores": {
+      "faithfulness": 0.0,
+      "context_relevance": 0.0,
+      "answer_correctness": 0.0,
+      "question_complexity": 0
+    },
+    "id": "5a98703a-8d4a-11ea-ae7d-54bef70b159e"
+  },
+  {
+    "question": "Kojim se od navedenih dokaza koristi René Descartes u dokazivanju Boga?",
+    "gen_answer": "Context does not apply.",
+    "ground_truth": "ontološkim",
+    "contexts": [
+      "Juraj Augustin\n\nJuraj Augustin (Zagreb, 1833. Augustin Juriga\n\nAugustin Juriga (Subotica, 1947.) Bio je jedan od prvih filozofa koji su prenijeli Aristotelovu logiku u islamski svijet. René Descartes\n\nRené Descartes, latinizirano Renatus Cartesius (Descartes (Indre-et-Loire) , 31. ožujka 1596. René Descartes (1596. Jedan od njezinih najpoznatijih učitelja je bio francuski filozof René Descartes."
+    ],
+    "scores": {
+      "faithfulness": 0.0,
+      "context_relevance": 0.0,
+      "answer_correctness": 0.0,
+      "question_complexity": 0
+    },
+    "id": "40220f0f-8d4a-11ea-ae7d-54bef70b159e"
+  },
+  {
+    "question": "Kako se naziva model rješavanja međuetničkoga odnosa u višenacionalnoj državi na način da se priznaju jednaka prava i vrijednost svih potkultura uz zakonsku zaštitu manjina?",
+    "gen_answer": "Model rješavanja međuetničkoga odnosa u višenacionalnoj državi na način da se priznaju jednaka prava i vrijednost svih potkultura uz zakonsku zaštitu manjina se naziva **model zaštitne autonomije**.",
+    "ground_truth": "kulturni pluralizam",
+    "contexts": [
+      "- Bosna i Hercegovina uputila službeni zahtjev Europskoj zajednici za priznanje neovisnosti.<br>\n- Božićna čestitka 50.000 Zagrepčana Papi, Genscheru i Mocku. Zalaže se za vrijednosti multietničkog i multikulturalnog društva kao temelja za očuvanje i koegzistenciju različitih identiteta u atmosferi tolerancije i uzajamnog uvažavanja. Sloboda okupljanja i udruživanja,\n\n13."
+    ],
+    "scores": {
+      "faithfulness": 0.0,
+      "context_relevance": 0.0,
+      "answer_correctness": 0.0,
+      "question_complexity": 0
+    },
+    "id": "68b04c28-8d4a-11ea-ae7d-54bef70b159e"
+  },
+  {
+    "question": "Koju ulogu u velikome poduzeću ima osoba zadužena za upravljanje i vođenje zaposlenih u odjelu financija?",
+    "gen_answer": "Upravljačka uloga.",
+    "ground_truth": "menadžera",
+    "contexts": [
+      "Računovodstvo\n\nRačunovodstvo je disciplina koja se bavi zapisom svih financijskih transakcija koje se dogode u jednoj poslovnoj organizaciji. u poslovanju poduzeća. Vode Zrinske gore pripadaju poriječjima Kupe, Save i Une te pripadaju dunavskom slivu."
+    ],
+    "scores": {
+      "faithfulness": 0.0,
+      "context_relevance": 0.0,
+      "answer_correctness": 0.0,
+      "question_complexity": 0
+    },
+    "id": "4e81ad91-8d4a-11ea-ae7d-54bef70b159e"
+  },
+  {
+    "question": "Koja od navedenih srednjovjekovnih hrvatskih crkava nije izgrađena u stilu predromanike?",
+    "gen_answer": "Context does not apply.",
+    "ground_truth": "crkva svete Marije u Zadru",
+    "contexts": [
+      "Marijanska svetišta dio su kulture i prakse nekih kršćanskih crkava - uglavnom Rimokatoličke crkve. Iz perioda kasne antike otkriveni su ostatci prvih kršćanskih crkava podignutih na ovome mjestu. Crkveno graditeljstvo\n\nCrkveno graditeljstvo ili crkvena arhitektura označava arhitekturu kršćanskih crkava."
+    ],
+    "scores": {
+      "faithfulness": 0.0,
+      "context_relevance": 0.0,
+      "answer_correctness": 0.0,
+      "question_complexity": 0
+    },
+    "id": "56b71e21-8d4a-11ea-ae7d-54bef70b159e"
+  },
+  {
+    "question": "Koja je od navedenih tvrdnja o utjecaju katalizatora na brzinu kemijske reakcije točna?",
+    "gen_answer": "Katalizator ne mijenja energiju aktivacije.",
+    "ground_truth": "Mijenjaju mehanizam kemijske reakcije.",
+    "contexts": [
+      "Primarni cilj kemijske termodinamike je da na temelju energijskih promjena definira uvjete koji određuju smjer spontane kemijske reakcije i njezin doseg, jer pretvorba reaktanata u produkte najčešće nije potpuna, pa kemijske reakcije napreduju samo do kemijske ravnoteže, tj. Znači da kod ove visoke temperature postoje na Suncu čisti protoni, to jest jezgre atoma vodika, i da imaju veliku brzinu, a time i kinetičku energiju. Kemijske reakcije uz sudjelovanje tvari, koje djeluju na brzinu reakcije i pri tom se ne mijenjaju,\nnazivaju se katalitičkim reakcijama. Njezin je primarni cilj da na temelju energijskih promjena odredi uvjete koji određuju smjer spontane kemijske reakcije i njezin doseg, jer pretvorba (konverzija) reaktanata u produkte najčešće nije potpuna, pa kemijske reakcije napreduju samo do kemijske ravnoteže, to jest do stupnja u kojem se omjer koncentracija reaktanata i produkata više ne mijenja."
+    ],
+    "scores": {
+      "faithfulness": 0.0,
+      "context_relevance": 0.0,
+      "answer_correctness": 0.0,
+      "question_complexity": 0
+    },
+    "id": "5de400ab-8d4a-11ea-ae7d-54bef70b159e"
+  },
+  {
+    "question": "Koja gospodarska aktivnost najviše može povećati opasnost od poplava na određenome području?",
+    "gen_answer": "Gospodarska aktivnost koja najviše može povećati opasnost od poplava je gradnja infrastrukture koja smanjuje prirodne protoci vode, kao što su kanali i kanalizacijske mreže. Ova aktivnost može povećati opasnost od poplava jer smanjuje prirodne mehanizme očišćavanja vode",
+    "ground_truth": "asfaltiranje područja",
+    "contexts": [
+      "Radi se o zamršenom zapletu tajne organizacije koja vodi podrijetlo od Templara i koja želi upravljati svijetom. Ova brana trebala bi smanjiti rizik od poplava, ali ne i potpuno eliminirati. Slatkog su okusa, topljivi u vodi, ali se otapanjem u vodi ne mogu rastaviti."
+    ],
+    "scores": {
+      "faithfulness": 0.0,
+      "context_relevance": 0.0,
+      "answer_correctness": 0.5,
+      "question_complexity": 0
+    },
+    "id": "65065e34-8d4a-11ea-ae7d-54bef70b159e"
+  },
+  {
+    "question": "U čemu se prema Ludwigu Wittgensteinu otkriva značenje riječi?",
+    "gen_answer": "U Tractatusu.",
+    "ground_truth": "u kritici metafizike",
+    "contexts": [
+      "Bavio se suvremenom filozofijom i fenomenologijom, a ponajviše odnosom politike i filozofije. Omiljena studentica i bliska prijateljica Ludwiga Wittgensteina, njezin članak iz 1958. U širem smislu, definicija je svaki izraz koji pobliže određuje ili objašnjava značenje riječi ili fraze. Tractatus logico-philosophicus\n\nTractatus logico-philosophicus je djelo austrijskog filozofa Ludwiga Wittgensteina objavljeno 1921. godine."
+    ],
+    "scores": {
+      "faithfulness": 0.0,
+      "context_relevance": 0.0,
+      "answer_correctness": 0.0,
+      "question_complexity": 0
+    },
+    "id": "5de40033-8d4a-11ea-ae7d-54bef70b159e"
+  },
+  {
+    "question": "Koji kontinenti imaju najnižu stopu porasta broja stanovnika u prvome desetljeću 21. stoljeća?",
+    "gen_answer": "Context does not apply.",
+    "ground_truth": "Europa",
+    "contexts": [
+      "3,4%od ukupnog broja stanovnika. Kretanje broja stanovnika kroz povijest. Današnjih 147 stanovnika predstavlja samo 9,8 % nekadašnjeg broja stanovnika."
+    ],
+    "scores": {
+      "faithfulness": 0.0,
+      "context_relevance": 0.0,
+      "answer_correctness": 0.0,
+      "question_complexity": 0
+    },
+    "id": "48802458-8d4a-11ea-ae7d-54bef70b159e"
+  },
+  {
+    "question": "Kojom se granom psihologije bavi psiholog koji je na uzorku stanovnika nekoga grada proveo anketu o kvaliteti života u tome gradu?",
+    "gen_answer": "Sociologijom.",
+    "ground_truth": "socijalnom psihologijom",
+    "contexts": [
+      "Svezom osjetilnog iskustva i eksperimenta Galileo i suvremenici opovrgnuli su Aristotelovu metodu, odnosno aristotelijansku praksu prisutnu do tada. Anketu kao metodu istraživanja koristimo u sociologiji slično kao i u psihologiji. Na primjer, kod slušanja predavanje možemo primijeniti tu metodu bilježenja ključnih riječi vezanih uz neki središnji problem ili temu."
+    ],
+    "scores": {
+      "faithfulness": 1.0,
+      "context_relevance": 0.5,
+      "answer_correctness": 1.0,
+      "question_complexity": 1
+    },
+    "id": "667d71e5-8d4a-11ea-ae7d-54bef70b159e"
+  },
+  {
+    "question": "Promatranjem jednoga organizma uočeno je da njegove stanice sadržavaju jezgru, mitohondrije i kloroplaste. Istodobno na višim organizacijskim razinama toga organizma nisu prisutna ni tkiva ni organi. Kojemu od navedenih organizama odgovara taj opis?",
+    "gen_answer": "Stroj.",
+    "ground_truth": "eugleni",
+    "contexts": [
+      "Povećanje s mikroskopom može biti i do 3 000 puta, pa se njime mogu vidjeti mikroorganizmi koji se inače prostim okom ne bi mogla vidjeti. Unutar stanice nalaze se i jezgra, škrobna zrnca, kloroplast i mitohondriji. Mlade stanice imaju kloroplast s jednim pirenoidom, koji služi za stvaranje škroba fotosintezom."
+    ],
+    "scores": {
+      "faithfulness": 0.0,
+      "context_relevance": 0.0,
+      "answer_correctness": 0.0,
+      "question_complexity": 0
+    },
+    "id": "3dd32b96-8d4a-11ea-ae7d-54bef70b159e"
+  },
+  {
+    "question": "Koji se demografski pojam odnosi na broj živorođene djece na tisuću stanovnika određene zemlje?",
+    "gen_answer": "Stopa nataliteta.",
+    "ground_truth": "natalitet",
+    "contexts": [
+      "Stopa nataliteta se obično računa na 1.000 stanovnika i to uz pomoć matematičke formule formula_1 gdje n označava traženu stopu, N broj živorođene djece , a S ukupan broj stanovnika na određenom području u razdoblju za koje se izračunava stopa, najčešće u godini dana. Narcizam\n\nNarcizam je pojam koji se odnosi na osobinu samoljublja."
+    ],
+    "scores": {
+      "faithfulness": 1.0,
+      "context_relevance": 1.0,
+      "answer_correctness": 1.0,
+      "question_complexity": 1
+    },
+    "id": "60543074-8d4a-11ea-ae7d-54bef70b159e"
+  },
+  {
+    "question": "Željeli bi povećati snagu jedne atomske centrale. Zbog toga će na kratko vrijeme pomoću kontrolnih šipki, koeficijent umnožavanja povećati iznad 1. Kako ovaj proces utječe na polovno vrijeme radioaktivnih tvari u reaktoru?",
+    "gen_answer": "Ne utječe.",
+    "ground_truth": "Polovno vrijeme radioaktivnih tvari u reaktoru se ne mijenja.",
+    "contexts": [
+      "Ukoliko se za nastavak lančane reakcije u reaktoru koriste brzi neutroni, radi se o brzom reaktoru. U nuklearnom reaktoru proces lančane reakcije kontroliramo, jer od dva do tri novonastala neutrona pri cijepanju u prosjeku samo jedan uzrokuje novo cijepanje urana 235. Takvi usporeni neutroni zovu se toplinski ili termički."
+    ],
+    "scores": {
+      "faithfulness": 0.0,
+      "context_relevance": 0.0,
+      "answer_correctness": 1.0,
+      "question_complexity": 1
+    },
+    "id": "780a773e-88c6-11ea-9948-f539ccb75afc"
+  },
+  {
+    "question": "Kako C. Wright Mills naziva sposobnost sociologa da pri istraživanju uočava međusobnu povezanost društva i života pojedinaca?",
+    "gen_answer": "Sociološka imaginacija.",
+    "ground_truth": "sociološka imaginacija",
+    "contexts": [
+      "Sociološka imaginacija iz pojedinačnog vidi mogućnost za generalizaciju, ona povezuje individualno iskustvo sa širim društvom. Američki sociolog Charles Wright Mills nazvao je to sociološkom imaginacijom. Izgleda da postoji značajna povezanost između pojedinaca s narkolepsijom i nekih genetskih promjena."
+    ],
+    "scores": {
+      "faithfulness": 1.0,
+      "context_relevance": 1.0,
+      "answer_correctness": 1.0,
+      "question_complexity": 1
+    },
+    "id": "68b04c73-8d4a-11ea-ae7d-54bef70b159e"
+  },
+  {
+    "question": "Koje je tijelo partizanske vlasti proglasilo Federalnu Državu Hrvatsku na temelju zaključaka drugoga zasjedanja AVNOJ-a?",
+    "gen_answer": "AVNOJ.",
+    "ground_truth": "Zemaljsko antifašističko vijeće narodnoga oslobođenja Hrvatske (ZAVNOH)",
+    "contexts": [
+      "To je bilo djelomično istinito; pravo na samoodređenje nije bilo jasno definirano ustavima iz 1946., 1963. i 1974. \"Podrobnije, v. u članku Ustavna odluka o suverenosti i samostalnosti Republike Hrvatske.\" Ustav Republike Hrvatske iz 1990. godine na više mjesta spominje \"tijela koja imaju javne ovlasti\" (članak 19., 26. i dr.)."
+    ],
+    "scores": {
+      "faithfulness": 0.0,
+      "context_relevance": 0.0,
+      "answer_correctness": 0.0,
+      "question_complexity": 0
+    },
+    "id": "4a02b130-8d4a-11ea-ae7d-54bef70b159e"
+  },
+  {
+    "question": "Koji je događaj u iskustvu zajednice Isusovih apostola i učenika označio nastanak Crkve?",
+    "gen_answer": "Uskrsnuće.",
+    "ground_truth": "silazak Duha Svetoga",
+    "contexts": [
+      ", jedan od Isusovih dvanaestorice apostola. Izbor prvih Isusovih učenika\n\nIzbor prvih Isusovih učenika je ključna epizoda u životu Isusa u Novom zavjetu. Prozori na zidovima prikazuju: Stvaranje, Utjelovljenje, Gorući grm i Silazak Duha Svetoga, a prednji prozor na pročelju ocrtava Uskrsnuće."
+    ],
+    "scores": {
+      "faithfulness": 0.0,
+      "context_relevance": 0.5,
+      "answer_correctness": 0.0,
+      "question_complexity": 1
+    },
+    "id": "473e7bf4-8d4a-11ea-ae7d-54bef70b159e"
+  },
+  {
+    "question": "Koja od navedenih tvrdnja odgovara kršćanskomu shvaćanju pakla?",
+    "gen_answer": "Pakao je mjesto gdje obitavaju đavoli i demoni koji muče duše grešnika.",
+    "ground_truth": "Pakao je stanje vječne odvojenosti od Boga.",
+    "contexts": [
+      "Eshatologija: Smrt i vječni život (nje. U kršćanskoj teologiji, pakao se opisuje kao mjesto u kojem obitavaju đavoli i demoni koji muče duše grešnika. Sveopće poslanje postalo je ključna odrednica u kršćanskoj teologiji ističući misionarski rad, evangelizaciju i pokrštavanje."
+    ],
+    "scores": {
+      "faithfulness": 1.0,
+      "context_relevance": 1.0,
+      "answer_correctness": 0.5,
+      "question_complexity": 1
+    },
+    "id": "6054307d-8d4a-11ea-ae7d-54bef70b159e"
+  },
+  {
+    "question": "Što je od navedenoga bila posljedica rata za španjolsku baštinu?",
+    "gen_answer": "Povijesna promjena.",
+    "ground_truth": "Filip Burbonski postao je španjolski kralj.",
+    "contexts": [
+      "Borio se u Italiji, za vrijeme Rata za španjolsku baštinu, pod zapovjedništvom princa Eugena Savojskoga. Rat za španjolsku baštinu sukcesije (1701.-1714.) Suprug pokojne engleske kraljice Marije I., španjolski kralj Filip II."
+    ],
+    "scores": {
+      "faithfulness": 0.0,
+      "context_relevance": 0.0,
+      "answer_correctness": 0.0,
+      "question_complexity": 1
+    },
+    "id": "5a986fef-8d4a-11ea-ae7d-54bef70b159e"
+  },
+  {
+    "question": "Auto koji se kreće ravnom cestom u smjeru prema istoku koči. Kojeg je smjera ubrzanje?",
+    "gen_answer": "Nema.",
+    "ground_truth": "Zapadnog.",
+    "contexts": [
+      "Voli biti u središtu pozornosti i, ovisno o osobi, može zadržati pozornost na duže vrijeme. Automobil ide sam dalje. Bokan je izravno odgovoran za srpski ratni zločin u Voćinu nad Hrvatima."
+    ],
+    "scores": {
+      "faithfulness": 0.0,
+      "context_relevance": 0.0,
+      "answer_correctness": 1.0,
+      "question_complexity": 2
+    },
+    "id": "77bd768c-88c6-11ea-9825-59f16e832e86"
+  },
+  {
+    "question": "Koji je aspekt društvenoga života temeljni predmet sociološkoga istraživanja?",
+    "gen_answer": "Društveno djelovanje.",
+    "ground_truth": "vrste i međupovezanost društvenih institucija",
+    "contexts": [
+      "Kako bi ga opet uhitili, pojede veliku količinu hrane u kafiću bez plaćanja. Sociologija je znanost o društvu i ljudskom socijalnom djelovanju. U spotu Lewis predpostavlja da je lik Crawforda ukrao veću količinu novaca."
+    ],
+    "scores": {
+      "faithfulness": 0.0,
+      "context_relevance": 0.0,
+      "answer_correctness": 0.0,
+      "question_complexity": 0
+    },
+    "id": "41483dd2-8d4a-11ea-ae7d-54bef70b159e"
+  },
+  {
+    "question": "Koja od navedenih teorija ne pripada metaetici?",
+    "gen_answer": "Context does not apply.",
+    "ground_truth": "utilitarizam",
+    "contexts": [
+      "Postoji niz socioloških smjerova u kriminologiji: teorija devijantnoga ponašanja, teorija socijalnog interakcionizma, teorija kulturnoga konflikta, teorija potkultura, teorija socijalne dezorganizacije, teorija diferencijalne asocijacije, teorija anomije, teorija otuđenja itd. Teorija\n\nTeorija (grč. Teorija brojeva\n\nTeorija brojeva je grana opće matematike koja izučava svojstva cijelih brojeva."
+    ],
+    "scores": {
+      "faithfulness": 0.0,
+      "context_relevance": 0.0,
+      "answer_correctness": 0.0,
+      "question_complexity": 0
+    },
+    "id": "558b7e36-8d4a-11ea-ae7d-54bef70b159e"
+  },
+  {
+    "question": "Koji niz određuje točan kronološki slijed navedenih događaja iz povijesti Habsburške Monarhije?",
+    "gen_answer": "Edikt o vjerskoj toleranciji (1781).",
+    "ground_truth": "revolucija 1848./1849. → Bachov apsolutizam → Schmerlingov apsolutizam → Austro-ugarska nagodba",
+    "contexts": [
+      "Istodobno sa donošenjem Edikta o vjerskoj toleranciji među kršćanskim vjerama iz 1781. Kronološki slijed događaja i pokreti su naglašeni čestim ponavljanjem sličnih oblika."
+    ],
+    "scores": {
+      "faithfulness": 0.0,
+      "context_relevance": 0.0,
+      "answer_correctness": 0.0,
+      "question_complexity": 0
+    },
+    "id": "41483dbf-8d4a-11ea-ae7d-54bef70b159e"
+  },
+  {
+    "question": "Koji je filozof smatrao da je zaštita privatnoga vlasništva temeljni razlog stvaranja političke zajednice ili države?",
+    "gen_answer": "Hobbes.",
+    "ground_truth": "John Locke",
+    "contexts": [
+      "Većina se tih stranaka bavi idejom osnivanja samostalne ukrajinske države. U filozofiji se stoga postavlja problem države, društvenog ugovora i suvereniteta. \"Hobbes."
+    ],
+    "scores": {
+      "faithfulness": 0.0,
+      "context_relevance": 0.0,
+      "answer_correctness": 0.0,
+      "question_complexity": 0
+    },
+    "id": "65065df7-8d4a-11ea-ae7d-54bef70b159e"
+  },
+  {
+    "question": "Koji je sakrament Isus Krist ustanovio riječima: „Primite Duha Svetoga. Kojima otpustite grijehe, otpuštaju im se, a kojima zadržite, zadržani su im.”?",
+    "gen_answer": "Kvartet.",
+    "ground_truth": "pomirenje",
+    "contexts": [
+      "Kojima otpustite grijehe, otpuštaju im se; kojima zadržite, zadržani su im. - te nastavio - Kojima otpustite grijehe, otpuštaju im se; kojima zadržite, zadržani su im« (Evanđelje po Ivanu 20,21.23). Kojima oprostite grijehe, oprostit će im se, a kojima zadržite, zadržat će se."
+    ],
+    "scores": {
+      "faithfulness": 0.0,
+      "context_relevance": 0.5,
+      "answer_correctness": 0.0,
+      "question_complexity": 2
+    },
+    "id": "3efae7f2-8d4a-11ea-ae7d-54bef70b159e"
+  },
+  {
+    "question": "Pozorno pročitajte povijesni izvor. (...) Kad se osnivaju države, nastoji se doći do jedinstva, a nigdje nije bolje provedeno jedinstvo nego pod jednim jedinim poglavarom. Nema nigdje ni veće snage, jer sve surađuje zajedno k jednom cilju. Kraljevska je vlast; prvo, sveta, drugo očinska, treće neograničena. (...) Koji je način upravljanja državom opisan u povijesnome izvoru?",
+    "gen_answer": "kraljevska vlast",
+    "ground_truth": "apsolutna monarhija",
+    "contexts": [
+      "U Demokratskome centru bio je i dopredsjednikom stranke. U političkom društvu ujedinjen je jedan narod sa jednim političkim tijelom pod jednom vrhovnom vladom. Populizam je usredotočen uglavnom na socijalne slojeve i društvene skupine, koje se u postojećem društvenom, ekonomskom i političkom poretku, nalaze u nepovoljnom položaju."
+    ],
+    "scores": {
+      "faithfulness": 0.0,
+      "context_relevance": 0.0,
+      "answer_correctness": 1.0,
+      "question_complexity": 2
+    },
+    "id": "56b71e25-8d4a-11ea-ae7d-54bef70b159e"
+  },
+  {
+    "question": "Koja je od navedenih biljnih zajednica najraširenija na lateritnome tlu u Brazilu?",
+    "gen_answer": "Context does not apply.",
+    "ground_truth": "campos",
+    "contexts": [
+      "\"Građani Calaisa\", izražajna skupina ljudi koja je prigodom postavljenja u Calaisu bila osporavana i negirana, jedna je od nezaobilaznih Rodinovih skulptura. Živi u šumama jugoistočnog Brazila i sjeveroistočne Argentine (Misiones). Narkomafija je skupina, koja živi na račun ovisnika o drogi."
+    ],
+    "scores": {
+      "faithfulness": 0.0,
+      "context_relevance": 0.0,
+      "answer_correctness": 0.0,
+      "question_complexity": 0
+    },
+    "id": "46138cb0-8d4a-11ea-ae7d-54bef70b159e"
+  },
+  {
+    "question": "Koji sukob motiva doživljava student koji ne želi prihvatiti ocjenu dovoljan iz ispita, ali ni ne želi ponovno polagati ispit?",
+    "gen_answer": "Sukob između nade i straha.",
+    "ground_truth": "istovremenoga odbijanja",
+    "contexts": [
+      "Rock nije više samo teenagerska plesna glazba, on je definitivno glazba revolucije koja predstavlja izraz nezadovoljstva i nade za novu generaciju koja želi \"“živjeti umjesto da preživljava”\", \"“voljeti umjesto da tolerira”\", \"“hodati umjesto da trči”\", \"“otkrivati umjesto da uči”\". Tako je student koji se zavjetuje da će tjedan dana postiti ako položi ispit te dane dužan i postiti. To se nikad nije ni dogodilo, vjerojatno zbog straha od Chaplinove sposobnosti da ismije istražitelje."
+    ],
+    "scores": {
+      "faithfulness": 0.0,
+      "context_relevance": 0.0,
+      "answer_correctness": 0.0,
+      "question_complexity": 2
+    },
+    "id": "63fd849b-8d4a-11ea-ae7d-54bef70b159e"
+  },
+  {
+    "question": "Koji se od navedenih izraza odnosi na moduse Barucha de Spinoze?",
+    "gen_answer": "natura naturata",
+    "ground_truth": "natura naturata",
+    "contexts": [
+      "Na njegovu misao najviše su utjecali René Descartes i racionalno - etička filozofija Barucha de Spinoze. i bila je kasnije usvojena kod racionalista Barucha Spinoze. Boga ili prirodu, kao aktivni stvaralački princip Bruno naziva natura naturans, a kao ostvareni svijet natura naturata."
+    ],
+    "scores": {
+      "faithfulness": 1.0,
+      "context_relevance": 1.0,
+      "answer_correctness": 1.0,
+      "question_complexity": 2
+    },
+    "id": "4d4489f9-8d4a-11ea-ae7d-54bef70b159e"
+  },
+  {
+    "question": "Koji od navedenih primjera opisuje geografsku izolaciju kao čimbenik evolucije?",
+    "gen_answer": "Context does not apply.",
+    "ground_truth": "Dvije populacije vjeverica žive na suprotnim stranama kanjona.",
+    "contexts": [
+      ", dok temperaturu iznad 25°C nisu u stanju podnijeti. Čini se da zemljopisno odjeljivanje odlučno utječe na mehanizam te izolacije. Koks izgara u struji zraka te se na taj način katalizator regenerira za ponovnu upotrebu, ali i postiže potrebnu temperaturu za sljedeći reakcijski ciklus."
+    ],
+    "scores": {
+      "faithfulness": 0.0,
+      "context_relevance": 0.0,
+      "answer_correctness": 0.0,
+      "question_complexity": 0
+    },
+    "id": "558b7e17-8d4a-11ea-ae7d-54bef70b159e"
+  }
+]
